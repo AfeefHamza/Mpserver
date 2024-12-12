@@ -1,0 +1,37 @@
+{
+  "allVideos": [
+    {
+      "caption": "Pushpa Trailer",
+      "imageUrl": "https://c.saavncdn.com/916/Ordinary-Person-From-Leo-Tamil-2023-20231023221744-500x500.jpg",
+      "youtubeUrl": "https://www.youtube.com/embed/RBtZpw5ioaM",
+      "id": 2
+    }
+  ],
+  "category": [
+    {
+      "id": 1,
+      "categoryName": "Malayalam",
+      "allVideos": [
+        {
+          "caption": "Naa Redy ",
+          "imageUrl": "https://pbs.twimg.com/media/F850NXHbkAA9F-5.jpg:large",
+          "youtubeUrl": "https://www.youtube.com/embed/q6e_b0NERCA",
+          "id": 11
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "categoryName": "Films",
+      "allVideos": [
+        {
+          "caption": "Ordinary Person Leo",
+          "imageUrl": "https://img.mensxp.com/media/content/2022/Jan/Actors-Who-Rejected-A-Role-In-Pushpa1200_61f0066ae097a.jpeg",
+          "youtubeUrl": "https://www.youtube.com/embed/3wDiqlTNlfQ",
+          "id": 3
+        }
+      ]
+    }
+  ],
+  "watchHistory": []
+}
